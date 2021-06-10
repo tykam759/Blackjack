@@ -18,8 +18,7 @@ Rules:\
 •	You can double on a hand resulting from a split, tripling, or quadrupling you bet.
 
 Summary:\
-My main goal is to create a command line blackjack game. User will be provided with fixed amount of chips at the start of the game,\
-which player will be able to bet freely (I plan to implement upper bet limit, not sure how much yet, but 1000 might be a good start). \
+My main goal is to create a command line blackjack game. User will be provided with fixed amount of chips at the start of the game, which player will be able to bet freely. \
 If the amount of chips reach 0, the player loses the game, as for the winning condition, there is not one. \
 Therefore, game can go on forever if player has chips to bet (player will be given option, to leave the table). \
 Another thing to consider is number of decks that will be played, as the counting cards might make the game too easy (I am thinking somewhere between 1-8 decks). \
